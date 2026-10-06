@@ -2,9 +2,7 @@
 
 Estudiante de **Ingeniería en Informática** en la UTEM (Santiago, Chile 🇨🇱), actualmente desarrollando mi trabajo de título.
 
-🔍 **Busco práctica profesional** en desarrollo de software o análisis de datos, donde pueda aportar y seguir aprendiendo.
-
-Me gusta construir aplicaciones web de punta a punta y transformar datos en decisiones.
+🔍 **Busco práctica profesional** en análisis de datos, donde pueda aportar y seguir aprendiendo.
 
 ## 🚀 Proyectos destacados
 
@@ -32,9 +30,6 @@ Análisis y modelamiento de datos reales de CONASET (1972–2024) para predecir 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
