@@ -2,9 +2,7 @@
 
 Estudiante de **Ingeniería en Informática** en la UTEM (Santiago, Chile 🇨🇱), actualmente desarrollando mi trabajo de título.
 
-🔍 **Busco práctica profesional** en desarrollo de software o análisis de datos, donde pueda aportar y seguir aprendiendo.
-
-Me gusta construir aplicaciones web de punta a punta y transformar datos en decisiones.
+🔍 **Busco práctica profesional** análisis de datos, donde pueda aportar y seguir aprendiendo.
 
 ## 🚀 Proyectos destacados
 
